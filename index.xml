@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welkom on My New Hugo Project</title><link>https://ooms.github.io/</link><description>Recent content in Welkom on My New Hugo Project</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://ooms.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Test post</title><link>https://ooms.github.io/posts/20260531-test/</link><pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate><guid>https://ooms.github.io/posts/20260531-test/</guid><description>&lt;p&gt;Dit is een test post.&lt;/p&gt;</description></item><item><title>Nieuwegein in oktober</title><link>https://ooms.github.io/posts/20260530-nieuwegein/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://ooms.github.io/posts/20260530-nieuwegein/</guid><description>&lt;p&gt;Iets over een nieuwe event in oktober.&lt;/p&gt;</description></item><item><title>Gastlessen op scholen</title><link>https://ooms.github.io/posts/20260206-gastlessen/</link><pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate><guid>https://ooms.github.io/posts/20260206-gastlessen/</guid><description>&lt;p&gt;Als Stichting krijgen wij meerdere aanvragen van scholen om een gastles te komen verzorgen.&lt;/p&gt;
+&lt;p&gt;Wij willen deze scholen graag helpen om een gast docent te vinden in hun omgeving die aansluit op hun wensen.&lt;/p&gt;
+&lt;p&gt;Onze gast docenten geven vrijwillig en zonder vergoedingen les aan kinderen.&lt;/p&gt;
+&lt;p&gt;Zou jouw school hier interesse in hebben, neem dan contact met ons op via: &lt;a href="mailto:info@devoxx4kids.nl"&gt;info@devoxx4kids.nl&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Voorbeeld activiteiten&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Een spelletje programmeren met Scratch&lt;/li&gt;
+&lt;li&gt;Cyberrijbewijs&lt;/li&gt;
+&lt;li&gt;Microbit met Pong&lt;/li&gt;
+&lt;li&gt;Lessen zoals: Hoe werkt een computer, Hoe ga je met Social Media om of hoe zorg je dat jouw accounts niet gehacked worden.&lt;/li&gt;
+&lt;li&gt;En nog vele andere mogelijkheden.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>About</title><link>https://ooms.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ooms.github.io/about/</guid><description>&lt;h3 id="hier-zijn-de-locatie-van-onze-devoxx4kids-events-in-nederland"&gt;Hier zijn de locatie van onze Devoxx4Kids events in Nederland&lt;/h3&gt;
+&lt;div id="map"&gt;
+&lt;link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" crossorigin=""/&gt;
+&lt;script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" crossorigin=""&gt;&lt;/script&gt;
+&lt;script&gt;
+ let markers = [{"latitude":52.3676,"longitude":4.9041,"name":"Amsterdam"},{"latitude":51.9225,"longitude":4.4792,"name":"Rotterdam"},{"latitude":52.0902,"longitude":5.1078,"name":"Utrecht"},{"latitude":52.0767,"longitude":4.2984,"name":"Den Haag"},{"latitude":51.9856,"longitude":5.8984,"name":"Arnhem"},{"latitude":52.2111,"longitude":5.9697,"name":"Apeldoorn"},{"latitude":52.0267,"longitude":5.0833,"name":"Nieuwegein"}];
+&lt;/script&gt;
+&lt;script src="https://ooms.github.io/map.js"&gt;&lt;/script&gt;
+&lt;/div&gt;</description></item><item><title>Stichting Devoxx4kidsNL</title><link>https://ooms.github.io/pages/stichting-d4k/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ooms.github.io/pages/stichting-d4k/</guid><description>&lt;h2 id="doel"&gt;Doel&lt;/h2&gt;
+&lt;p&gt;Het doel van de stichting is het creëren van bewustwording en kinderen op een leuke manier te inspireren en kennis te laten maken met programmeren.&lt;/p&gt;
+&lt;h2 id="doelgroep"&gt;Doelgroep&lt;/h2&gt;
+&lt;p&gt;De evenementen welke worden georganiseerd onder vlag van Devoxx4kidsNL zijn gericht op kinderen van de bovenbouw basisschool en onderbouw voortgezet onderwijs (ongeveer 10-14 jaar).&lt;/p&gt;
+&lt;p&gt;De workshops worden voornamelijk gehouden in de weekends en/of schoolvakanties en zijn in principe gratis. Bedrijven zorgen voor vrijwilligers die op een professionele manier de kinderen lesgeven en begeleiden bij de opdrachten.&lt;/p&gt;</description></item></channel></rss>
