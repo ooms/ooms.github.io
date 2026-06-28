@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on My New Hugo Project</title><link>https://ooms.github.io/posts/</link><description>Recent content in Blog on My New Hugo Project</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 31 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://ooms.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Test post</title><link>https://ooms.github.io/posts/20260531-test/</link><pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate><guid>https://ooms.github.io/posts/20260531-test/</guid><description>&lt;p&gt;Dit is een test post.&lt;/p&gt;</description></item><item><title>Nieuwegein in oktober</title><link>https://ooms.github.io/posts/20260530-nieuwegein/</link><pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate><guid>https://ooms.github.io/posts/20260530-nieuwegein/</guid><description>&lt;p&gt;Iets over een nieuwe event in oktober.&lt;/p&gt;</description></item><item><title>Gastlessen op scholen</title><link>https://ooms.github.io/posts/20260206-gastlessen/</link><pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate><guid>https://ooms.github.io/posts/20260206-gastlessen/</guid><description>&lt;p&gt;Als Stichting krijgen wij meerdere aanvragen van scholen om een gastles te komen verzorgen.&lt;/p&gt;
-&lt;p&gt;Wij willen deze scholen graag helpen om een gast docent te vinden in hun omgeving die aansluit op hun wensen.&lt;/p&gt;
-&lt;p&gt;Onze gast docenten geven vrijwillig en zonder vergoedingen les aan kinderen.&lt;/p&gt;
-&lt;p&gt;Zou jouw school hier interesse in hebben, neem dan contact met ons op via: &lt;a href="mailto:info@devoxx4kids.nl"&gt;info@devoxx4kids.nl&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Voorbeeld activiteiten&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Een spelletje programmeren met Scratch&lt;/li&gt;
-&lt;li&gt;Cyberrijbewijs&lt;/li&gt;
-&lt;li&gt;Microbit met Pong&lt;/li&gt;
-&lt;li&gt;Lessen zoals: Hoe werkt een computer, Hoe ga je met Social Media om of hoe zorg je dat jouw accounts niet gehacked worden.&lt;/li&gt;
-&lt;li&gt;En nog vele andere mogelijkheden.&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on My New Hugo Project</title><link>https://ooms.github.io/posts/</link><description>Recent content in Posts on My New Hugo Project</description><generator>Hugo</generator><language>en-us</language><lastBuildDate/><atom:link href="https://ooms.github.io/posts/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
